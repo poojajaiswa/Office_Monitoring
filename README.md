@@ -1,8 +1,12 @@
 # 🎥 Office Monitoring System with AI YOLOv8
 
+
+<img width="1916" height="1079" alt="Screenshot 2026-02-10 163718" src="https://github.com/user-attachments/assets/26de4823-e6ec-49ca-8291-39703dcf52c2" />
+
 An intelligent office monitoring system that uses YOLOv8 deep learning model for real-time person detection, tracking, and area occupancy monitoring across multiple office cabin zones. Features both a command-line interface and an interactive Streamlit web dashboard.
 
 ## 🌟 Overview
+
 
 This project implements an automated office monitoring solution that tracks employee presence and movement across different office cabin areas. It leverages the power of YOLOv8 (You Only Look Once) object detection model to identify and track individuals in real-time, calculating the time spent in each designated zone.
 
